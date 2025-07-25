@@ -1,0 +1,7 @@
+Key Business Questions:
+1. Which region generated the highest revenue?
+2. What is the top-selling product by quantity?
+3. How did sales perform over the quarter?
+
+Business Insight: 
+The South region led in total revenue, reaching 15K—driven primarily by strong sales of the Notebook Basic 15. March's revenue showed a notable increase compared to February, suggesting an upward trend in performance and potential for continued growth.
