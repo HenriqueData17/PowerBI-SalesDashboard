@@ -1,7 +1,5 @@
 # PowerBI-SalesDashboard
 Executive Sales Dashboard – Regional &amp; Product Sales Insights built with Power BI
-# PowerBI-SalesDashboard
-Executive Sales Dashboard – Regional &amp; Product Sales Insights built with Power BI
 # 📊 Sales Dashboard – Power BI
 
 Welcome to the **Sales Dashboard** project!  
