@@ -76,4 +76,4 @@ This is just the beginning. I plan to:
 ---
 
 > ⭐ If you liked this project, consider giving it a star!  
-> Let’s connect on [LinkedIn](https://www.linkedin.com/in/henrique-data) soon!
+> Let’s connect on [LinkedIn](https://www.linkedin.com/in/caio-henrique17) soon!
